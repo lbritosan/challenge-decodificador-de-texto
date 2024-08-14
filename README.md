@@ -1,4 +1,4 @@
-# Criptografador de Texto
+# Decodificador de Texto
 
 Este projeto é uma aplicação web que permite a criptografia e descriptografia de textos usando HTML5, CSS3 e JavaScript. A interface foi desenvolvida com um layout moderno e responsivo, que se adapta a diferentes tamanhos de tela e dispositivos.
 
